@@ -19,6 +19,8 @@ padding-top: 30px;height: 0;overflow: hidden;">
     allowfullscreen="true" style="position: absolute;top:0;
     left: 0;width: 100%;height: 100%;"> </iframe>
 </div>
+  
+
 
 #### 带演讲前后剧情
   
@@ -30,6 +32,8 @@ padding-top: 30px;height: 0;overflow: hidden;">
     allowfullscreen="true" style="position: absolute;top:0;
     left: 0;width: 100%;height: 100%;"> </iframe>
 </div>
+  
+
 
 #### 跳探戈
   
@@ -43,6 +47,7 @@ padding-top: 30px;height: 0;overflow: hidden;">
 </div>
   
 
+  
 #### 英文台词 
   
 
