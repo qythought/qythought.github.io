@@ -4,19 +4,21 @@ title: 《闻香识女人》演讲
 categorys: [思考]
 ---
 
-# 《闻香识女人》中校 Colonel Frank Slade 为 Charlie Simms 辩护演讲
+### 《闻香识女人》中校 Colonel Frank Slade 为 Charlie Simms 辩护演讲
 
 #### 演讲正文 
 
-<iframe src="//player.bilibili.com/player.html?aid=79962243&bvid=BV16J411x7Zn&cid=136834574&page=1" width="700px" height="500px" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=81682764&amp;cid=139767955&amp;page=1" frameborder="no" scrolling="no" width="95%" height="600"></iframe></p>
+
+<iframe src="//player.bilibili.com/player.html?aid=81682764&bvid=BV1ZJ411b7F6&cid=139767955&page=1" width="700px" height="500px" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 #### 带演讲前后剧情
 
-<iframe src="//player.bilibili.com/player.html?aid=79962243&bvid=BV16J411x7Zn&cid=136834574&page=1"  width="700px" height="500px" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=79962243&bvid=BV16J411x7Zn&cid=136834574&page=1"  width="700px" height="500px" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen> </iframe>
 
 #### 跳探戈
 
-<iframe src="//player.bilibili.com/player.html?aid=14768155&bvid=BV14x411G7sZ&cid=24067237&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=14768155&bvid=BV14x411G7sZ&cid=24067237&page=1" width="700px" height="500px" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen> </iframe>
 
 #### 英文台词
 
