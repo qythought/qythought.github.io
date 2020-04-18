@@ -4,25 +4,30 @@ title: 《闻香识女人》演讲
 categorys: [思考]
 ---
 
-### 《闻香识女人》中校 Colonel Frank Slade 为 Charlie Simms 辩护演讲
+### 《闻香识女人》中校 Colonel Frank Slade 为 Charlie Simms 辩护演讲  
+
+  
+  
 
 #### 演讲正文 
-
-<div style="position: relative; padding: 30% 45%;">
-<iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://player.bilibili.com/player.html?aid=81682764&cid=139767955&page=1&as_wide=1&high_quality=1&danmaku=0" frameborder="no" scrolling="no"></iframe>
-</div>
+  
 
 <iframe src="//player.bilibili.com/player.html?aid=81682764&bvid=BV1ZJ411b7F6&cid=139767955&page=1" width="700px" height="500px" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 #### 带演讲前后剧情
+  
 
 <iframe src="//player.bilibili.com/player.html?aid=79962243&bvid=BV16J411x7Zn&cid=136834574&page=1"  width="700px" height="500px" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen> </iframe>
 
 #### 跳探戈
+  
 
 <iframe src="//player.bilibili.com/player.html?aid=14768155&bvid=BV14x411G7sZ&cid=24067237&page=1" width="700px" height="500px" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen> </iframe>
+  
 
-#### 英文台词
+#### 英文台词 
+  
+
 
 Trask: Mr. Simms, you are a cover-up artist and you are a liar.
 
