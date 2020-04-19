@@ -21,7 +21,7 @@ padding-top: 30px;height: 0;overflow: hidden;">
 </div>
   
 
- <!-- more -->  <！--摘要截止到这-->
+ <!-- more --> 
 #### 带演讲前后剧情
   
 
