@@ -13,7 +13,7 @@ layout: default
       {% capture post_lang %}{{ post.lang | default: site_lang }}{% endcapture %}
       {% capture lang %}{% if post_lang != site_lang %}{{ post_lang }}{% endif %}{% endcapture %}
 
-      <li{% if lang != empty && post.title != empty %} lang="{{ lang }}"{% endif %}>
+      <li{% if lang != empty %} lang="{{ lang }}"{% endif %}>
         <header class="post-header">
           <h1 class="post-title">
             {% if post.external-url %}
