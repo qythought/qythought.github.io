@@ -53,6 +53,7 @@ excerpt_separator: "<!-- more -->"
 permalink: /:year/:month/:day/:title/
 paginate_path: /posts/:num/
 paginate: 5
+gems: [jekyll-paginate]
 
 # Markdown settings
 kramdown:
