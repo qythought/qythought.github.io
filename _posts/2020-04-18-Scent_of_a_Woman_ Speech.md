@@ -22,8 +22,14 @@ padding-top: 30px;height: 0;overflow: hidden;">
   
 
  <!-- more --> 
-#### 带演讲前后剧情
+
   
+
+
+#### 带演讲前后剧情
+
+  
+
 
 <div style="position: relative;padding-bottom: 56.25%;
 padding-top: 30px;height: 0;overflow: hidden;">
@@ -32,12 +38,15 @@ padding-top: 30px;height: 0;overflow: hidden;">
     allowfullscreen="true" style="position: absolute;top:0;
     left: 0;width: 100%;height: 100%;"> </iframe>
 </div>
+
   
 
 
 #### 跳探戈
+
   
-  
+
+
 <div style="position: relative;padding-bottom: 56.25%;
 padding-top: 30px;height: 0;overflow: hidden;">
     <iframe src="//player.bilibili.com/player.html?aid=14768155&bvid=BV14x411G7sZ&cid=24067237&page=1" scrolling="no"
@@ -45,10 +54,12 @@ padding-top: 30px;height: 0;overflow: hidden;">
     allowfullscreen="true" style="position: absolute;top:0;
     left: 0;width: 100%;height: 100%;"> </iframe>
 </div>
+
   
 
 
 #### 英文台词 
+
   
 
 
